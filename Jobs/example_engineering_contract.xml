@@ -1,0 +1,72 @@
+<Job>
+	<EndDate type:DateTime>2000-01-01T01:00:00</EndDate>
+	<Name>Engineering Contract Example</Name>
+	<StartDate type:DateTime>2000-01-01T01:00:00</StartDate>
+</Job>
+
+<Task>
+	<Completed></Completed>
+	<EndDate type:DateTime>2000-01-01T01:00:00</EndDate>
+	<HotKey></HotKey>
+	<Name>Requirements Analysis</Name>
+	<Note></Note>
+	<Project Number></Project Number>
+	<StartDate type:DateTime>2000-01-01T01:00:00</StartDate>
+	<Task Priority></Task Priority>
+	<TaskID type:Integer>1</TaskID>
+	<Teask Leader></Teask Leader>
+	<TimeSpent></TimeSpent>
+</Task>
+<Task>
+	<Completed></Completed>
+	<EndDate type:DateTime>2000-01-01T01:00:00</EndDate>
+	<HotKey></HotKey>
+	<Name>Domain Analysis</Name>
+	<Note></Note>
+	<Project Number></Project Number>
+	<StartDate type:DateTime>2000-01-01T01:00:00</StartDate>
+	<Task Priority></Task Priority>
+	<TaskID type:Integer>2</TaskID>
+	<Teask Leader></Teask Leader>
+	<TimeSpent></TimeSpent>
+</Task>
+<Task>
+	<Completed></Completed>
+	<EndDate type:DateTime>2000-01-01T01:00:00</EndDate>
+	<HotKey></HotKey>
+	<Name>Documentation</Name>
+	<Note></Note>
+	<Project Number></Project Number>
+	<StartDate type:DateTime>2000-01-01T01:00:00</StartDate>
+	<Task Priority></Task Priority>
+	<TaskID type:Integer>3</TaskID>
+	<Teask Leader></Teask Leader>
+	<TimeSpent></TimeSpent>
+</Task>
+<Task>
+	<Completed></Completed>
+	<EndDate type:DateTime>2000-01-01T01:00:00</EndDate>
+	<HotKey></HotKey>
+	<Name>Prototype Implementation</Name>
+	<Note></Note>
+	<Project Number></Project Number>
+	<StartDate type:DateTime>2000-01-01T01:00:00</StartDate>
+	<Task Priority></Task Priority>
+	<TaskID type:Integer>4</TaskID>
+	<Teask Leader></Teask Leader>
+	<TimeSpent></TimeSpent>
+</Task>
+<Task>
+	<Completed></Completed>
+	<EndDate type:DateTime>2000-01-01T01:00:00</EndDate>
+	<HotKey></HotKey>
+	<Name>Client Presentation</Name>
+	<Note></Note>
+	<Presentation File></Presentation File>
+	<Project Number></Project Number>
+	<StartDate type:DateTime>2000-01-01T01:00:00</StartDate>
+	<Task Priority></Task Priority>
+	<TaskID type:Integer>5</TaskID>
+	<Teask Leader></Teask Leader>
+	<TimeSpent></TimeSpent>
+</Task>

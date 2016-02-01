@@ -1,0 +1,45 @@
+<Job>
+	<EndDate type:DateTime>2000-01-01T01:00:00</EndDate>
+	<Name>Chemical Test</Name>
+	<StartDate type:DateTime>2000-01-01T01:00:00</StartDate>
+</Job>
+
+<Task>
+	<Completed></Completed>
+	<EndDate type:DateTime>2000-01-01T01:00:00</EndDate>
+	<HotKey></HotKey>
+	<Name>Analyze Results</Name>
+	<StartDate type:DateTime>2000-01-01T01:00:00</StartDate>
+	<TaskID type:Integer>3</TaskID>
+	<TimeSpent></TimeSpent>
+</Task>
+<Task>
+	<Completed></Completed>
+	<EndDate type:DateTime>2000-01-01T01:00:00</EndDate>
+	<HotKey></HotKey>
+	<Name>Perform Experiment</Name>
+	<Reaction Equation></Reaction Equation>
+	<StartDate type:DateTime>2000-01-01T01:00:00</StartDate>
+	<TaskID type:Integer>4</TaskID>
+	<TimeSpent></TimeSpent>
+</Task>
+<Task>
+	<Completed></Completed>
+	<EndDate type:DateTime>2000-01-01T01:00:00</EndDate>
+	<HotKey></HotKey>
+	<Name>Purify Sample</Name>
+	<StartDate type:DateTime>2000-01-01T01:00:00</StartDate>
+	<TaskID type:Integer>2</TaskID>
+	<TimeSpent></TimeSpent>
+</Task>
+<Task>
+	<Completed></Completed>
+	<EndDate type:DateTime>2000-01-01T01:00:00</EndDate>
+	<HotKey></HotKey>
+	<Ingredient 1></Ingredient 1>
+	<Ingredient 2></Ingredient 2>
+	<Name>Prepare Solution</Name>
+	<StartDate type:DateTime>2000-01-01T01:00:00</StartDate>
+	<TaskID type:Integer>1</TaskID>
+	<TimeSpent></TimeSpent>
+</Task>
