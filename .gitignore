@@ -24,6 +24,7 @@ qrc_*.cpp
 ui_*.h
 Makefile*
 *build-*
+qdevelop-settings.db
 
 # QtCreator
 
@@ -35,3 +36,4 @@ Makefile*
 
 # vim swap files
 *.swp
+
